@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenethrrizzo 
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Go for backend
+- 👀 I’m interested in IoT
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Twitter: @kenethrrizzo
